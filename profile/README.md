@@ -37,7 +37,7 @@ Turbodoc is completely **open source** and **free to use**. All applications are
 Each application has its own development setup:
 
 - **iOS**: [https://github.com/turbodoc-org/turbodoc-ios](https://github.com/turbodoc-org/turbodoc-ios)
-- **Web**: [https://github.com/turbodoc-org/turbodoc-web](https://github.com/turbodoc-org/turbodoc-web)
+- **Web**: [https://github.com/turbodoc-org/turbodoc-web-v2](https://github.com/turbodoc-org/turbodoc-web-v2)
 - **API**: [https://github.com/turbodoc-org/turbodoc-api](https://github.com/turbodoc-org/turbodoc-api)
 
 ## License
